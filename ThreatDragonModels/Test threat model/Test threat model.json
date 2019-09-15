@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Test threat model",
+    "owner": "Ben Boyle",
+    "description": "A simple web application"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "test-diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
